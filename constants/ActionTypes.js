@@ -1,0 +1,13 @@
+module.exports.ADD_TODO = 'ADD_TODO';
+module.exports.ADD_TODO_AJAX = 'ADD_TODO_AJAX';
+module.exports.DELETE_TODO = 'DELETE_TODO';
+module.exports.EDIT_TODO = 'EDIT_TODO';
+module.exports.SWITCHD_TODO = 'SWITCHD_TODO';
+module.exports.SWITCH_TODO = 'SWITCH_TODO';
+module.exports.COLORP_TODO = 'COLORP_TODO';
+module.exports.COLOR_TODO = 'COLOR_TODO';
+module.exports.COPY_TODO = 'COPY_TODO';
+module.exports.COPY_ARR = 'COPY_ARR';
+module.exports.MARK_TODO = 'MARK_TODO';
+module.exports.MARK_ALL = 'MARK_ALL';
+module.exports.CLEAR_MARKED = 'CLEAR_MARKED';
